@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <name>agro crag</name>
+  <author>
+   <name>Shane Buscher</name>
+   <link href="https://www.strava.com/athletes/291879"/>
+  </author>
+  <copyright author="OpenStreetMap contributors">
+   <year>2020</year>
+   <license>https://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <link href="https://www.strava.com/routes/27729968"/>
+ </metadata>
+ <trk>
+  <name>agro crag</name>
+  <link href="https://www.strava.com/routes/27729968"/>
+  <type>Ride</type>
+  <trkseg>
+   <trkpt lat="41.30332000000001" lon="-95.85960000000001">
+    <ele>345.32</ele>
+   </trkpt>
+   <trkpt lat="41.30346" lon="-95.85972000000001">
+    <ele>343.45000000000005</ele>
+   </trkpt>
+   <trkpt lat="41.303610000000006" lon="-95.85977000000001">
+    <ele>344.80000000000007</ele>
+   </trkpt>
+   <trkpt lat="41.303760000000004" lon="-95.85989000000001">
+    <ele>344.15</ele>
+   </trkpt>
+   <trkpt lat="41.30387" lon="-95.86000000000001">
+    <ele>344.51000000000005</ele>
+   </trkpt>
+   <trkpt lat="41.30395" lon="-95.86009000000001">
+    <ele>340.89000000000004</ele>
+   </trkpt>
+   <trkpt lat="41.303960000000004" lon="-95.86015">
+    <ele>342.16</ele>
+   </trkpt>
+   <trkpt lat="41.30391" lon="-95.86021000000001">
+    <ele>337.64000000000004</ele>
+   </trkpt>
+   <trkpt lat="41.30386" lon="-95.86025000000001">
+    <ele>335.20000000000005</ele>
+   </trkpt>
+   <trkpt lat="41.30389" lon="-95.86036000000001">
+    <ele>335.29</ele>
+   </trkpt>
+   <trkpt lat="41.30391" lon="-95.86045000000001">
+    <ele>334.71</ele>
+   </trkpt>
+   <trkpt lat="41.30377" lon="-95.86042">
+    <ele>329.36</ele>
+   </trkpt>
+   <trkpt lat="41.30368" lon="-95.86042">
+    <ele>327.62</ele>
+   </trkpt>
+   <trkpt lat="41.303700000000006" lon="-95.86054000000001">
+    <ele>324.21000000000004</ele>
+   </trkpt>
+   <trkpt lat="41.30368" lon="-95.86063000000001">
+    <ele>321.85</ele>
+   </trkpt>
+   <trkpt lat="41.303610000000006" lon="-95.86063000000001">
+    <ele>320.24</ele>
+   </trkpt>
+   <trkpt lat="41.30355" lon="-95.86067000000001">
+    <ele>319.91</ele>
+   </trkpt>
+   <trkpt lat="41.303470000000004" lon="-95.86081">
+    <ele>322.95</ele>
+   </trkpt>
+   <trkpt lat="41.30339" lon="-95.86087">
+    <ele>320.87000000000006</ele>
+   </trkpt>
+   <trkpt lat="41.30333" lon="-95.86091">
+    <ele>317.49000000000007</ele>
+   </trkpt>
+   <trkpt lat="41.30321" lon="-95.86094000000001">
+    <ele>313.95</ele>
+   </trkpt>
+   <trkpt lat="41.30308" lon="-95.86101000000001">
+    <ele>312.34</ele>
+   </trkpt>
+   <trkpt lat="41.30303000000001" lon="-95.86113">
+    <ele>312.87</ele>
+   </trkpt>
+   <trkpt lat="41.303000000000004" lon="-95.86122">
+    <ele>311.23</ele>
+   </trkpt>
+   <trkpt lat="41.30295" lon="-95.86127">
+    <ele>310.78</ele>
+   </trkpt>
+   <trkpt lat="41.30284" lon="-95.86135">
+    <ele>310.53000000000003</ele>
+   </trkpt>
+   <trkpt lat="41.302800000000005" lon="-95.86139000000001">
+    <ele>310.44000000000005</ele>
+   </trkpt>
+   <trkpt lat="41.30274" lon="-95.8615">
+    <ele>310.33000000000004</ele>
+   </trkpt>
+   <trkpt lat="41.302690000000005" lon="-95.86156000000001">
+    <ele>310.18</ele>
+   </trkpt>
+   <trkpt lat="41.302640000000004" lon="-95.86158">
+    <ele>310.13</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
